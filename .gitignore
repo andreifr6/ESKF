@@ -1,0 +1,49 @@
+# Pastas de build do CLion e CMake
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+Testing/
+CTestTestfile.cmake
+Makefile
+compile_commands.json
+compile_flags.txt
+*.cmake
+*.cbp
+*.vcxproj
+*.xcodeproj
+
+# Binários e objetos compilados
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+*.exe
+*.out
+*.app
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Configurações do CLion (IDE)
+.idea/
+*.iml
+
+# Arquivos de log
+*.log
+
+# Virtual Environment do Python
+venv/
+.env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependências do Python
+pip-log.txt
+pip-delete-this-directory.txt
+ 
